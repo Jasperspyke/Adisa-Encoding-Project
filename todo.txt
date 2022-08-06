@@ -1,5 +1,6 @@
 1. Fix readme file, let jasper know how to properly format an MD file so it doesn't look like garbage
 2. Add a pdf or other document explaining our conclusions and visualizations
 3. Add a section in the readme explaining why we thought this project would be a good idea, and more stuff that looks good on resume
+4. Add full code and documentation 
 ...
-4. profit! 
+6. profit! 
