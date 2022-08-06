@@ -11,7 +11,10 @@ Jasper Hilliard,
 Rafe Sharif, 
 Mrugsen Gopnarayan,
 
-### Mentors Alish Dipani Emeka Ogbuju Kohitij Kar
+### Mentors
+Alish Dipani,
+Emeka Ogbuju,
+Kohitij Kar
 
 # Presentation and Methodology
 Check root directory for detailed methods
@@ -54,7 +57,8 @@ ones.
 
 # Implications/conclusions
 
-### Conclusions The dissimilarity appeared to be uniform throughout all
+### Conclusions
+The dissimilarity appeared to be uniform throughout all
 the layers. For certain layers, such as V1 and V2, there was no
 detectible difference in dissimilarity across categories. However, for
 the LatOcc and V4 cortices, there was a measurable effect size
@@ -63,14 +67,16 @@ response data.
 
 Check root directory for more details on conclusions, plots and visuals.
 
-### Limitations This study's lack of time series data, as well as the
+### Limitations 
+This study's lack of time series data, as well as the
 RDM process removes a lot of detail from our conclusions.
 
 Despite removal of many unsuitable images, there may be confounding
 factors present that could explain some of the differences between
 responses to manmade/natural images.
 
-### Futher research The results of this brief study have affirmed our
+### Futher research 
+The results of this brief study have affirmed our
 expectation that RSM would be a useful tool for analyzing the brain's
 encoding of two different categories of image data. There is opportunity
 for a random control trial, for example a study where the stimuli are
