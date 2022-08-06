@@ -1,4 +1,7 @@
-\#Contributors \#\
+**<img width="791" alt="image" src="https://user-images.githubusercontent.com/104863800/183230189-40d510cd-e433-4dd3-8df7-b5e9e0e40923.png">
+**
+
+# Contributors
 #Group Members: Prerita Chawla Deeksha Rai Fabio Bauer
 Jasper Hilliard Rafe Sharif Mrugsen Gopnarayan Animikha Ghosh
 \#\#Mentors Alish Dipani Emeka Ogbuju Kohitij Kar
