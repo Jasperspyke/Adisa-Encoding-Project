@@ -1,17 +1,25 @@
 **<img width="791" alt="image" src="https://user-images.githubusercontent.com/104863800/183230189-40d510cd-e433-4dd3-8df7-b5e9e0e40923.png">
 **
 
-# Contributors
-#Group Members: Prerita Chawla Deeksha Rai Fabio Bauer
-Jasper Hilliard Rafe Sharif Mrugsen Gopnarayan Animikha Ghosh
-\#\#Mentors Alish Dipani Emeka Ogbuju Kohitij Kar
+# Contributors (no order)
 
-\#Presentation and Methodology Check root directory for detailed methods
+### Group Members: 
+Prerita Chawla,
+Deeksha Rai, 
+Fabio Bauer,
+Jasper Hilliard,
+Rafe Sharif, 
+Mrugsen Gopnarayan,
+
+### Mentors Alish Dipani Emeka Ogbuju Kohitij Kar
+
+# Presentation and Methodology
+Check root directory for detailed methods
 and full presentation
 
-\#Introduction
+# Introduction
 
-\#\#Abstract
+### Abstract
 
 The human visual cortex has been associated with hierarchical perception
 of various stimulus features. The first stop after relay from the
@@ -44,14 +52,9 @@ also certain significant differences between the neural networks that
 may hint at the brain encoding natural images differently from manmade
 ones.
 
-\#\#Hypothesis: Our hypothesis is that the similarity between social
-cognition brain networks and resting state (default mode network) is
-higher than the similarity between other conditions in the HCP dataset
-and resting state.
+# Implications/conclusions
 
-\#Implications/conclusions
-
-\#\#Conclusions The dissimilarity appeared to be uniform throughout all
+### Conclusions The dissimilarity appeared to be uniform throughout all
 the layers. For certain layers, such as V1 and V2, there was no
 detectible difference in dissimilarity across categories. However, for
 the LatOcc and V4 cortices, there was a measurable effect size
@@ -60,14 +63,14 @@ response data.
 
 Check root directory for more details on conclusions, plots and visuals.
 
-\#\#Limitations This study's lack of time series data, as well as the
+### Limitations This study's lack of time series data, as well as the
 RDM process removes a lot of detail from our conclusions.
 
 Despite removal of many unsuitable images, there may be confounding
 factors present that could explain some of the differences between
 responses to manmade/natural images.
 
-\#\#Futher research The results of this brief study have affirmed our
+### Futher research The results of this brief study have affirmed our
 expectation that RSM would be a useful tool for analyzing the brain's
 encoding of two different categories of image data. There is opportunity
 for a random control trial, for example a study where the stimuli are
