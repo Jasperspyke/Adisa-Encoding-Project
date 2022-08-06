@@ -1,4 +1,5 @@
-\#Contributors \#\#Group Members: Prerita Chawla Deeksha Rai Fabio Bauer
+\#Contributors \#\
+#Group Members: Prerita Chawla Deeksha Rai Fabio Bauer
 Jasper Hilliard Rafe Sharif Mrugsen Gopnarayan Animikha Ghosh
 \#\#Mentors Alish Dipani Emeka Ogbuju Kohitij Kar
 
